@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hi 👋, I'm Shubham</h1> 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="[https://camo.githubusercontent.com/48085222d896c4ab194690cf5820d6288d25e8a1ad22b33b715fdfdbae28e84c/68747470733a2f2f6c61766b7573686b756d6](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47hykpr03guq28hjpmzxk6anhklbnwk2lwaj6d9vwh&ep=v1_gifs_search&rid=200w.webp&ct=g)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham05055&label=Profile%20views&color=0e75b6&style=flat" alt="shubham05055" /> </p> 
