@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubhampetwal53" target="blank"><img src="https://img.shields.io/twitter/follow/shubhampetwal53?logo=twitter&style=for-the-badge" alt="shubhampetwal53" /></a> </p>
 
-- 🌱 I’m currently learning **react** 
+- 🌱 I’m currently learning **Italian** 
 - 🎈  Currently learning italian language and it's culture from D.u (dgrs) 
 
 - 📫 How to reach me **shubhampetwal53@gmail.com**
